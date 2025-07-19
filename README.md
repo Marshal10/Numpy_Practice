@@ -1,1 +1,1 @@
-# Numpy_Practice
+Numpy Practice
